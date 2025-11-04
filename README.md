@@ -66,7 +66,7 @@
 
 <div>
   <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" title="mysql" alt="mysql" height="40"/>&nbsp
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRivXCkaET9d6hHwTXDxxR8Lw5Vql5cUqrkAg&s" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
+  <img src="https://d2lgmzy8vjj79z.cloudfront.net/mongodb.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
 </div>
 
 ---
