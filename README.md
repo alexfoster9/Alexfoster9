@@ -1,4 +1,4 @@
-# Привет, меня зовут Алексей!
+# Привет, меня зовут Алексей! <img src="https://cdn-icons-png.flaticon.com/128/9437/9437514.png" title="soapui" alt="Привет!" width="35" height="35"/>
 
 ---
 
@@ -6,23 +6,6 @@
 
 Я тестировщик
 
-
-### 📫 Как связаться со мной: 
-
-<div> <a href="mailto:alexeymusienko1996@gmail.com"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" width="40" height="40" style="vertical-align:middle;"/></a> </div>
-
----
-
-### 🤝 Социальные сети:
-
-  <div id="badges">
-    <!-- <a href="https://www.linkedin.com/in/artsiomrusau/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a> -->
-    <a href="https://t.me/alexfoster6" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/128/5968/5968804.png" width="40" height="40" alt="telegram" />
-    </a>
-  </div>
 
 ---
 
@@ -89,5 +72,23 @@
 | netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
 
 --- -->
+
+
+### 📫 Как связаться со мной: 
+
+<div> 
+    <a href="mailto:alexeymusienko1996@gmail.com">
+        <img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" width="40" height="40"/>
+    </a> 
+<!-- <a href="https://www.linkedin.com/in/artsiomrusau/" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
+    </a> -->
+    <a href="https://t.me/alexfoster6" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/128/5968/5968804.png" width="40" height="40" alt="telegram" />
+    </a>
+</div>
+
+---
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=alexfoster9)
