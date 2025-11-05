@@ -97,7 +97,7 @@
   <li><a href="https://github.com/alexfoster9/theory">Теория тестирования</a> – определение методов, типов, уровней тестирования. Анализ макета</li>
   <li><a href="https://github.com/alexfoster9/design">Тест-дизайн</a> – применение техник тест-дизайна</li>
   <li><a href="https://github.com/alexfoster9/docs">Документация</a> – создание чек-листа, тест-кейсов, отчетов о дефекте</li>
-  <li><a href="https://github.com/osukhorukova/mongodb">MongoDB</a> – NoSQL queries and exercises</li>
+  <li><a href="https://github.com/alexfoster9/web">Тестирование веб-приложений</a> – создание тест-плана, чек-листа, тест-кейсов, тестового прогона, отчётов о дефекте</li>
   <li><a href="https://github.com/osukhorukova/mobile_testing">Android App Testing</a> – manual test cases and bug reports</li>
   <li><a href="https://github.com/osukhorukova/charlesproxy">Charles Proxy</a> – mock responses and network inspection</li>
   <li><a href="https://github.com/osukhorukova/bash">Bash</a> – scripts for QA tasks</li>
