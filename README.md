@@ -56,6 +56,28 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
+
+  <h2>Some Tools I Use</h2>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="YouTrack" alt="YouTrack" width="40" height="40"/>
+  <img src="https://codahosted.io/packs/21236/unversioned/assets/LOGO/ba1091c59bab89cd2fd0f289622731fe16113d7b00905abe64759c313a4b73b76c1b0426076ed76cb74752234c734131df46992d5b8b48fc13e264240e4f7119f736cfeb64df36ded54b5cbf6198b9cadedf18dd0cac5c7dbcd16e6336c29363cd1292ba" alt="TestRail" width="40" height="40"/>
+  <img src="https://app.qase.io/assets/client/1762245334269/images/logo-night.698f1aa4.svg" title="Qase" alt="Qase" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
+  <img src="https://github.com/ChromeDevTools/devtools-logo/raw/master/logos/svg/chrome-devtools-square-responsive.svg" title="Chrome DevTools" alt="Chrome DevTools" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" title="Postman" alt="Postman" width="40" height="40"/>
+  <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="SoapUI" alt="SoapUI" width="40" height="40"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" title="Android Studio" alt="Android Studio" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/ru/thumb/0/0c/Xcode_icon.png/120px-Xcode_icon.png" title="Xcode" alt="Xcode" width="40" height="40"/>
+  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="Charles Proxy" alt="Charles Proxy" width="40" height="40"/>
+  <img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" title="Fiddler" alt="Fiddler" width="40" height="40"/>
+  <img src="https://pbs.twimg.com/profile_images/1589614420766126080/slAIVDtr_400x400.jpg" title="Proxyman" alt="Proxyman" width="40" height="40"/>
+  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" title="MySQL" alt="MySQL" height="40"/>
+  <img src="https://d2lgmzy8vjj79z.cloudfront.net/mongodb.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="Bash" alt="Bash" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>
+</p>
   
 </div>
 
@@ -68,6 +90,19 @@
 | netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
 
 --- -->
+
+
+<h2>Тестовые артефакты</h2>
+<ul>
+  <li><a href="https://github.com/osukhorukova/web_testing">Webshop Testing</a> – exploratory and functional testing</li>
+  <li><a href="https://github.com/osukhorukova/api_testing">API Testing</a> – REST and SOAP via Postman</li>
+  <li><a href="https://github.com/osukhorukova/sql">MySQL</a> – queries and DB validation scripts</li>
+  <li><a href="https://github.com/osukhorukova/mongodb">MongoDB</a> – NoSQL queries and exercises</li>
+  <li><a href="https://github.com/osukhorukova/mobile_testing">Android App Testing</a> – manual test cases and bug reports</li>
+  <li><a href="https://github.com/osukhorukova/charlesproxy">Charles Proxy</a> – mock responses and network inspection</li>
+  <li><a href="https://github.com/osukhorukova/bash">Bash</a> – scripts for QA tasks</li>
+  <li><a href="https://github.com/osukhorukova/git">Git</a> – basic version control commands</li>
+</ul>
 
 
 <h3 align="center">📫 Как связаться со мной:</h3>
