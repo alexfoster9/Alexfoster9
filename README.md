@@ -101,7 +101,7 @@
   <li><a href="https://github.com/alexfoster9/api">Тестирование API</a> - REST и SOAP с помощью Postman</li>
   <li><a href="https://github.com/alexfoster9/database">Работа с базами данных</a> - запросы и упражнения с MySQL и MongoDB</li>
   <li><a href="https://github.com/alexfoster9/mobile">Тестирование приложений Android</a> - чек-лист, тест-кейсы, отчеты о дефекте, отчет о тестировании, перехват трафика</li>
-  <li><a href="https://github.com/osukhorukova/git">Работа с Bash</a> - отправка базовых команд в Bash</li>
+  <li><a href="https://github.com/alexfoster9/git_bash">Работа с Bash</a> - отправка базовых команд в Bash</li>
 </ul>
 
 
